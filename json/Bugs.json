@@ -1,0 +1,1832 @@
+[
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a21"
+        },
+        "id": 10,
+        "name": {
+            "english": "Caterpie",
+            "japanese": "\u30ad\u30e3\u30bf\u30d4\u30fc",
+            "chinese": "\u7eff\u6bdb\u866b",
+            "french": "Chenipan"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 30,
+            "Defense": 35,
+            "Sp. Attack": 20,
+            "Sp. Defense": 20,
+            "Speed": 45
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a22"
+        },
+        "id": 11,
+        "name": {
+            "english": "Metapod",
+            "japanese": "\u30c8\u30e9\u30f3\u30bb\u30eb",
+            "chinese": "\u94c1\u7532\u86f9",
+            "french": "Chrysacier"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 20,
+            "Defense": 55,
+            "Sp. Attack": 25,
+            "Sp. Defense": 25,
+            "Speed": 30
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a23"
+        },
+        "id": 12,
+        "name": {
+            "english": "Butterfree",
+            "japanese": "\u30d0\u30bf\u30d5\u30ea\u30fc",
+            "chinese": "\u5df4\u5927\u8776",
+            "french": "Papilusion"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 45,
+            "Defense": 50,
+            "Sp. Attack": 90,
+            "Sp. Defense": 80,
+            "Speed": 70
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a24"
+        },
+        "id": 13,
+        "name": {
+            "english": "Weedle",
+            "japanese": "\u30d3\u30fc\u30c9\u30eb",
+            "chinese": "\u72ec\u89d2\u866b",
+            "french": "Aspicot"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 35,
+            "Defense": 30,
+            "Sp. Attack": 20,
+            "Sp. Defense": 20,
+            "Speed": 50
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a25"
+        },
+        "id": 14,
+        "name": {
+            "english": "Kakuna",
+            "japanese": "\u30b3\u30af\u30fc\u30f3",
+            "chinese": "\u94c1\u58f3\u86f9",
+            "french": "Coconfort"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 25,
+            "Defense": 50,
+            "Sp. Attack": 25,
+            "Sp. Defense": 25,
+            "Speed": 35
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a26"
+        },
+        "id": 15,
+        "name": {
+            "english": "Beedrill",
+            "japanese": "\u30b9\u30d4\u30a2\u30fc",
+            "chinese": "\u5927\u9488\u8702",
+            "french": "Dardargnan"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 90,
+            "Defense": 40,
+            "Sp. Attack": 45,
+            "Sp. Defense": 80,
+            "Speed": 75
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a45"
+        },
+        "id": 46,
+        "name": {
+            "english": "Paras",
+            "japanese": "\u30d1\u30e9\u30b9",
+            "chinese": "\u6d3e\u62c9\u65af",
+            "french": "Paras"
+        },
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "base": {
+            "HP": 35,
+            "Attack": 70,
+            "Defense": 55,
+            "Sp. Attack": 45,
+            "Sp. Defense": 55,
+            "Speed": 25
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a46"
+        },
+        "id": 47,
+        "name": {
+            "english": "Parasect",
+            "japanese": "\u30d1\u30e9\u30bb\u30af\u30c8",
+            "chinese": "\u6d3e\u62c9\u65af\u7279",
+            "french": "Parasect"
+        },
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 95,
+            "Defense": 80,
+            "Sp. Attack": 60,
+            "Sp. Defense": 80,
+            "Speed": 30
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a47"
+        },
+        "id": 48,
+        "name": {
+            "english": "Venonat",
+            "japanese": "\u30b3\u30f3\u30d1\u30f3",
+            "chinese": "\u6bdb\u7403",
+            "french": "Mimitoss"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 55,
+            "Defense": 50,
+            "Sp. Attack": 40,
+            "Sp. Defense": 55,
+            "Speed": 45
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a48"
+        },
+        "id": 49,
+        "name": {
+            "english": "Venomoth",
+            "japanese": "\u30e2\u30eb\u30d5\u30a9\u30f3",
+            "chinese": "\u6469\u9c81\u86fe",
+            "french": "A\u00e9romite"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 65,
+            "Defense": 60,
+            "Sp. Attack": 90,
+            "Sp. Defense": 75,
+            "Speed": 90
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a92"
+        },
+        "id": 123,
+        "name": {
+            "english": "Scyther",
+            "japanese": "\u30b9\u30c8\u30e9\u30a4\u30af",
+            "chinese": "\u98de\u5929\u87b3\u8782",
+            "french": "Ins\u00e9cateur"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 110,
+            "Defense": 80,
+            "Sp. Attack": 55,
+            "Sp. Defense": 80,
+            "Speed": 105
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315a96"
+        },
+        "id": 127,
+        "name": {
+            "english": "Pinsir",
+            "japanese": "\u30ab\u30a4\u30ed\u30b9",
+            "chinese": "\u51ef\u7f57\u65af",
+            "french": "Scarabrute"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 125,
+            "Defense": 100,
+            "Sp. Attack": 55,
+            "Sp. Defense": 70,
+            "Speed": 85
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315abc"
+        },
+        "id": 165,
+        "name": {
+            "english": "Ledyba",
+            "japanese": "\u30ec\u30c7\u30a3\u30d0",
+            "chinese": "\u82ad\u74e2\u866b",
+            "french": "Coxy"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 20,
+            "Defense": 30,
+            "Sp. Attack": 40,
+            "Sp. Defense": 80,
+            "Speed": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315abd"
+        },
+        "id": 166,
+        "name": {
+            "english": "Ledian",
+            "japanese": "\u30ec\u30c7\u30a3\u30a2\u30f3",
+            "chinese": "\u5b89\u74e2\u866b",
+            "french": "Coxyclaque"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 55,
+            "Attack": 35,
+            "Defense": 50,
+            "Sp. Attack": 55,
+            "Sp. Defense": 110,
+            "Speed": 85
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315abe"
+        },
+        "id": 167,
+        "name": {
+            "english": "Spinarak",
+            "japanese": "\u30a4\u30c8\u30de\u30eb",
+            "chinese": "\u5706\u4e1d\u86db",
+            "french": "Mimigal"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 60,
+            "Defense": 40,
+            "Sp. Attack": 40,
+            "Sp. Defense": 40,
+            "Speed": 30
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315abf"
+        },
+        "id": 168,
+        "name": {
+            "english": "Ariados",
+            "japanese": "\u30a2\u30ea\u30a2\u30c9\u30b9",
+            "chinese": "\u963f\u5229\u591a\u65af",
+            "french": "Migalos"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 90,
+            "Defense": 70,
+            "Sp. Attack": 60,
+            "Sp. Defense": 70,
+            "Speed": 40
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315ad8"
+        },
+        "id": 193,
+        "name": {
+            "english": "Yanma",
+            "japanese": "\u30e4\u30f3\u30e4\u30f3\u30de",
+            "chinese": "\u873b\u873b\u8713",
+            "french": "Yanma"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 65,
+            "Defense": 45,
+            "Sp. Attack": 75,
+            "Sp. Defense": 45,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315ae3"
+        },
+        "id": 204,
+        "name": {
+            "english": "Pineco",
+            "japanese": "\u30af\u30cc\u30ae\u30c0\u30de",
+            "chinese": "\u699b\u679c\u7403",
+            "french": "Pomdepik"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 65,
+            "Defense": 90,
+            "Sp. Attack": 35,
+            "Sp. Defense": 35,
+            "Speed": 15
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315ae4"
+        },
+        "id": 205,
+        "name": {
+            "english": "Forretress",
+            "japanese": "\u30d5\u30a9\u30ec\u30c8\u30b9",
+            "chinese": "\u4f5b\u70c8\u6258\u65af",
+            "french": "Foretress"
+        },
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 90,
+            "Defense": 140,
+            "Sp. Attack": 60,
+            "Sp. Defense": 60,
+            "Speed": 40
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315aeb"
+        },
+        "id": 212,
+        "name": {
+            "english": "Scizor",
+            "japanese": "\u30cf\u30c3\u30b5\u30e0",
+            "chinese": "\u5de8\u94b3\u87b3\u8782",
+            "french": "Cizayox"
+        },
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 130,
+            "Defense": 100,
+            "Sp. Attack": 55,
+            "Sp. Defense": 80,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315aec"
+        },
+        "id": 213,
+        "name": {
+            "english": "Shuckle",
+            "japanese": "\u30c4\u30dc\u30c4\u30dc",
+            "chinese": "\u58f6\u58f6",
+            "french": "Caratroc"
+        },
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "base": {
+            "HP": 20,
+            "Attack": 10,
+            "Defense": 230,
+            "Sp. Attack": 10,
+            "Sp. Defense": 230,
+            "Speed": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315aed"
+        },
+        "id": 214,
+        "name": {
+            "english": "Heracross",
+            "japanese": "\u30d8\u30e9\u30af\u30ed\u30b9",
+            "chinese": "\u8d6b\u62c9\u514b\u7f57\u65af",
+            "french": "Scarhino"
+        },
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 125,
+            "Defense": 75,
+            "Sp. Attack": 40,
+            "Sp. Defense": 95,
+            "Speed": 85
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b20"
+        },
+        "id": 265,
+        "name": {
+            "english": "Wurmple",
+            "japanese": "\u30b1\u30e0\u30c3\u30bd",
+            "chinese": "\u523a\u5c3e\u866b",
+            "french": "Chenipotte"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 45,
+            "Defense": 35,
+            "Sp. Attack": 20,
+            "Sp. Defense": 30,
+            "Speed": 20
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b21"
+        },
+        "id": 266,
+        "name": {
+            "english": "Silcoon",
+            "japanese": "\u30ab\u30e9\u30b5\u30ea\u30b9",
+            "chinese": "\u7532\u58f3\u8327",
+            "french": "Armulys"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 35,
+            "Defense": 55,
+            "Sp. Attack": 25,
+            "Sp. Defense": 25,
+            "Speed": 15
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b22"
+        },
+        "id": 267,
+        "name": {
+            "english": "Beautifly",
+            "japanese": "\u30a2\u30b2\u30cf\u30f3\u30c8",
+            "chinese": "\u72e9\u730e\u51e4\u8776",
+            "french": "Charmillon"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 70,
+            "Defense": 50,
+            "Sp. Attack": 100,
+            "Sp. Defense": 50,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b23"
+        },
+        "id": 268,
+        "name": {
+            "english": "Cascoon",
+            "japanese": "\u30de\u30e6\u30eb\u30c9",
+            "chinese": "\u76fe\u7532\u8327",
+            "french": "Blindalys"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 35,
+            "Defense": 55,
+            "Sp. Attack": 25,
+            "Sp. Defense": 25,
+            "Speed": 15
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b24"
+        },
+        "id": 269,
+        "name": {
+            "english": "Dustox",
+            "japanese": "\u30c9\u30af\u30b1\u30a4\u30eb",
+            "chinese": "\u6bd2\u7c89\u86fe",
+            "french": "Papinox"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 50,
+            "Defense": 70,
+            "Sp. Attack": 50,
+            "Sp. Defense": 90,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b32"
+        },
+        "id": 283,
+        "name": {
+            "english": "Surskit",
+            "japanese": "\u30a2\u30e1\u30bf\u30de",
+            "chinese": "\u6e9c\u6e9c\u7cd6\u7403",
+            "french": "Arakdo"
+        },
+        "type": [
+            "Bug",
+            "Water"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 30,
+            "Defense": 32,
+            "Sp. Attack": 50,
+            "Sp. Defense": 52,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b33"
+        },
+        "id": 284,
+        "name": {
+            "english": "Masquerain",
+            "japanese": "\u30a2\u30e1\u30e2\u30fc\u30b9",
+            "chinese": "\u96e8\u7fc5\u86fe",
+            "french": "Maskadra"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 60,
+            "Defense": 62,
+            "Sp. Attack": 100,
+            "Sp. Defense": 82,
+            "Speed": 80
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b39"
+        },
+        "id": 290,
+        "name": {
+            "english": "Nincada",
+            "japanese": "\u30c4\u30c1\u30cb\u30f3",
+            "chinese": "\u571f\u5c45\u5fcd\u58eb",
+            "french": "Ningale"
+        },
+        "type": [
+            "Bug",
+            "Ground"
+        ],
+        "base": {
+            "HP": 31,
+            "Attack": 45,
+            "Defense": 90,
+            "Sp. Attack": 30,
+            "Sp. Defense": 30,
+            "Speed": 40
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b3a"
+        },
+        "id": 291,
+        "name": {
+            "english": "Ninjask",
+            "japanese": "\u30c6\u30c3\u30ab\u30cb\u30f3",
+            "chinese": "\u94c1\u9762\u5fcd\u8005",
+            "french": "Ninjask"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 61,
+            "Attack": 90,
+            "Defense": 45,
+            "Sp. Attack": 50,
+            "Sp. Defense": 50,
+            "Speed": 160
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b3b"
+        },
+        "id": 292,
+        "name": {
+            "english": "Shedinja",
+            "japanese": "\u30cc\u30b1\u30cb\u30f3",
+            "chinese": "\u8131\u58f3\u5fcd\u8005",
+            "french": "Munja"
+        },
+        "type": [
+            "Bug",
+            "Ghost"
+        ],
+        "base": {
+            "HP": 1,
+            "Attack": 90,
+            "Defense": 45,
+            "Sp. Attack": 30,
+            "Sp. Defense": 30,
+            "Speed": 40
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b50"
+        },
+        "id": 313,
+        "name": {
+            "english": "Volbeat",
+            "japanese": "\u30d0\u30eb\u30d3\u30fc\u30c8",
+            "chinese": "\u7535\u8424\u866b",
+            "french": "Muciole"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 73,
+            "Defense": 75,
+            "Sp. Attack": 47,
+            "Sp. Defense": 85,
+            "Speed": 85
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b51"
+        },
+        "id": 314,
+        "name": {
+            "english": "Illumise",
+            "japanese": "\u30a4\u30eb\u30df\u30fc\u30bc",
+            "chinese": "\u751c\u751c\u8424",
+            "french": "Lumivole"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 47,
+            "Defense": 75,
+            "Sp. Attack": 73,
+            "Sp. Defense": 85,
+            "Speed": 85
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b72"
+        },
+        "id": 347,
+        "name": {
+            "english": "Anorith",
+            "japanese": "\u30a2\u30ce\u30d7\u30b9",
+            "chinese": "\u592a\u53e4\u7fbd\u866b",
+            "french": "Anorith"
+        },
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 95,
+            "Defense": 50,
+            "Sp. Attack": 40,
+            "Sp. Defense": 50,
+            "Speed": 75
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315b73"
+        },
+        "id": 348,
+        "name": {
+            "english": "Armaldo",
+            "japanese": "\u30a2\u30fc\u30de\u30eb\u30c9",
+            "chinese": "\u592a\u53e4\u76d4\u7532",
+            "french": "Armaldo"
+        },
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 125,
+            "Defense": 100,
+            "Sp. Attack": 70,
+            "Sp. Defense": 80,
+            "Speed": 45
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315ba8"
+        },
+        "id": 401,
+        "name": {
+            "english": "Kricketot",
+            "japanese": "\u30b3\u30ed\u30dc\u30fc\u30b7",
+            "chinese": "\u5706\u6cd5\u5e08",
+            "french": "Crikzik"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 37,
+            "Attack": 25,
+            "Defense": 41,
+            "Sp. Attack": 25,
+            "Sp. Defense": 41,
+            "Speed": 25
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315ba9"
+        },
+        "id": 402,
+        "name": {
+            "english": "Kricketune",
+            "japanese": "\u30b3\u30ed\u30c8\u30c3\u30af",
+            "chinese": "\u97f3\u7bb1\u87c0",
+            "french": "M\u00e9lokrik"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 77,
+            "Attack": 85,
+            "Defense": 51,
+            "Sp. Attack": 55,
+            "Sp. Defense": 51,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315bb3"
+        },
+        "id": 412,
+        "name": {
+            "english": "Burmy",
+            "japanese": "\u30df\u30ce\u30e0\u30c3\u30c1",
+            "chinese": "\u7ed3\u8349\u513f",
+            "french": "Cheniti"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 29,
+            "Defense": 45,
+            "Sp. Attack": 29,
+            "Sp. Defense": 45,
+            "Speed": 36
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315bb4"
+        },
+        "id": 413,
+        "name": {
+            "english": "Wormadam",
+            "japanese": "\u30df\u30ce\u30de\u30c0\u30e0",
+            "chinese": "\u7ed3\u8349\u8d35\u5987",
+            "french": "Cheniselle"
+        },
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 59,
+            "Defense": 85,
+            "Sp. Attack": 79,
+            "Sp. Defense": 105,
+            "Speed": 36
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315bb5"
+        },
+        "id": 414,
+        "name": {
+            "english": "Mothim",
+            "japanese": "\u30ac\u30fc\u30e1\u30a4\u30eb",
+            "chinese": "\u7ec5\u58eb\u86fe",
+            "french": "Papilord"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 94,
+            "Defense": 50,
+            "Sp. Attack": 94,
+            "Sp. Defense": 50,
+            "Speed": 66
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315bb6"
+        },
+        "id": 415,
+        "name": {
+            "english": "Combee",
+            "japanese": "\u30df\u30c4\u30cf\u30cb\u30fc",
+            "chinese": "\u4e09\u871c\u8702",
+            "french": "Apitrini"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 30,
+            "Attack": 30,
+            "Defense": 42,
+            "Sp. Attack": 30,
+            "Sp. Defense": 42,
+            "Speed": 70
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315bb7"
+        },
+        "id": 416,
+        "name": {
+            "english": "Vespiquen",
+            "japanese": "\u30d3\u30fc\u30af\u30a4\u30f3",
+            "chinese": "\u8702\u5973\u738b",
+            "french": "Apireine"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 80,
+            "Defense": 102,
+            "Sp. Attack": 80,
+            "Sp. Defense": 102,
+            "Speed": 40
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315bda"
+        },
+        "id": 451,
+        "name": {
+            "english": "Skorupi",
+            "japanese": "\u30b9\u30b3\u30eb\u30d4",
+            "chinese": "\u94b3\u5c3e\u874e",
+            "french": "Rapion"
+        },
+        "type": [
+            "Poison",
+            "Bug"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 50,
+            "Defense": 90,
+            "Sp. Attack": 30,
+            "Sp. Defense": 55,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315bec"
+        },
+        "id": 469,
+        "name": {
+            "english": "Yanmega",
+            "japanese": "\u30e1\u30ac\u30e4\u30f3\u30de",
+            "chinese": "\u8fdc\u53e4\u5de8\u8713",
+            "french": "Yanmega"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 86,
+            "Attack": 76,
+            "Defense": 86,
+            "Sp. Attack": 116,
+            "Sp. Defense": 56,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c33"
+        },
+        "id": 540,
+        "name": {
+            "english": "Sewaddle",
+            "japanese": "\u30af\u30eb\u30df\u30eb",
+            "chinese": "\u866b\u5b9d\u5305",
+            "french": "Larveyette"
+        },
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 53,
+            "Defense": 70,
+            "Sp. Attack": 40,
+            "Sp. Defense": 60,
+            "Speed": 42
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c34"
+        },
+        "id": 541,
+        "name": {
+            "english": "Swadloon",
+            "japanese": "\u30af\u30eb\u30de\u30e6",
+            "chinese": "\u5b9d\u5305\u8327",
+            "french": "Couverdure"
+        },
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "base": {
+            "HP": 55,
+            "Attack": 63,
+            "Defense": 90,
+            "Sp. Attack": 50,
+            "Sp. Defense": 80,
+            "Speed": 42
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c35"
+        },
+        "id": 542,
+        "name": {
+            "english": "Leavanny",
+            "japanese": "\u30cf\u30cf\u30b3\u30e2\u30ea",
+            "chinese": "\u4fdd\u59c6\u866b",
+            "french": "Manternel"
+        },
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 103,
+            "Defense": 80,
+            "Sp. Attack": 70,
+            "Sp. Defense": 80,
+            "Speed": 92
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c36"
+        },
+        "id": 543,
+        "name": {
+            "english": "Venipede",
+            "japanese": "\u30d5\u30b7\u30c7",
+            "chinese": "\u767e\u8db3\u8708\u86a3",
+            "french": "Venipatte"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 30,
+            "Attack": 45,
+            "Defense": 59,
+            "Sp. Attack": 30,
+            "Sp. Defense": 39,
+            "Speed": 57
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c37"
+        },
+        "id": 544,
+        "name": {
+            "english": "Whirlipede",
+            "japanese": "\u30db\u30a4\u30fc\u30ac",
+            "chinese": "\u8f66\u8f6e\u7403",
+            "french": "Scobolide"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 55,
+            "Defense": 99,
+            "Sp. Attack": 40,
+            "Sp. Defense": 79,
+            "Speed": 47
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c38"
+        },
+        "id": 545,
+        "name": {
+            "english": "Scolipede",
+            "japanese": "\u30da\u30f3\u30c9\u30e9\u30fc",
+            "chinese": "\u8708\u86a3\u738b",
+            "french": "Brutapode"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 100,
+            "Defense": 89,
+            "Sp. Attack": 55,
+            "Sp. Defense": 69,
+            "Speed": 112
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c44"
+        },
+        "id": 557,
+        "name": {
+            "english": "Dwebble",
+            "japanese": "\u30a4\u30b7\u30ba\u30de\u30a4",
+            "chinese": "\u77f3\u5c45\u87f9",
+            "french": "Crabicoque"
+        },
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 65,
+            "Defense": 85,
+            "Sp. Attack": 35,
+            "Sp. Defense": 35,
+            "Speed": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c45"
+        },
+        "id": 558,
+        "name": {
+            "english": "Crustle",
+            "japanese": "\u30a4\u30ef\u30d1\u30ec\u30b9",
+            "chinese": "\u5ca9\u6bbf\u5c45\u87f9",
+            "french": "Crabaraque"
+        },
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 105,
+            "Defense": 125,
+            "Sp. Attack": 65,
+            "Sp. Defense": 75,
+            "Speed": 45
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c63"
+        },
+        "id": 588,
+        "name": {
+            "english": "Karrablast",
+            "japanese": "\u30ab\u30d6\u30eb\u30e2",
+            "chinese": "\u76d6\u76d6\u866b",
+            "french": "Carabing"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 75,
+            "Defense": 45,
+            "Sp. Attack": 40,
+            "Sp. Defense": 45,
+            "Speed": 60
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c64"
+        },
+        "id": 589,
+        "name": {
+            "english": "Escavalier",
+            "japanese": "\u30b7\u30e5\u30d0\u30eb\u30b4",
+            "chinese": "\u9a91\u58eb\u8717\u725b",
+            "french": "Lan\u00e7argot"
+        },
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 135,
+            "Defense": 105,
+            "Sp. Attack": 60,
+            "Sp. Defense": 105,
+            "Speed": 20
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c6a"
+        },
+        "id": 595,
+        "name": {
+            "english": "Joltik",
+            "japanese": "\u30d0\u30c1\u30e5\u30eb",
+            "chinese": "\u7535\u7535\u866b",
+            "french": "Statitik"
+        },
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 47,
+            "Defense": 50,
+            "Sp. Attack": 57,
+            "Sp. Defense": 50,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c6b"
+        },
+        "id": 596,
+        "name": {
+            "english": "Galvantula",
+            "japanese": "\u30c7\u30f3\u30c1\u30e5\u30e9",
+            "chinese": "\u7535\u8718\u86db",
+            "french": "Mygavolt"
+        },
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 77,
+            "Defense": 60,
+            "Sp. Attack": 97,
+            "Sp. Defense": 60,
+            "Speed": 108
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c7f"
+        },
+        "id": 616,
+        "name": {
+            "english": "Shelmet",
+            "japanese": "\u30c1\u30e7\u30dc\u30de\u30ad",
+            "chinese": "\u5c0f\u5634\u8717",
+            "french": "Escargaume"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 40,
+            "Defense": 85,
+            "Sp. Attack": 40,
+            "Sp. Defense": 65,
+            "Speed": 25
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c80"
+        },
+        "id": 617,
+        "name": {
+            "english": "Accelgor",
+            "japanese": "\u30a2\u30ae\u30eb\u30c0\u30fc",
+            "chinese": "\u654f\u6377\u866b",
+            "french": "Limaspeed"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 70,
+            "Defense": 40,
+            "Sp. Attack": 100,
+            "Sp. Defense": 60,
+            "Speed": 145
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c8f"
+        },
+        "id": 632,
+        "name": {
+            "english": "Durant",
+            "japanese": "\u30a2\u30a4\u30a2\u30f3\u30c8",
+            "chinese": "\u94c1\u8681",
+            "french": "Fermite"
+        },
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "base": {
+            "HP": 58,
+            "Attack": 109,
+            "Defense": 112,
+            "Sp. Attack": 48,
+            "Sp. Defense": 48,
+            "Speed": 109
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c93"
+        },
+        "id": 636,
+        "name": {
+            "english": "Larvesta",
+            "japanese": "\u30e1\u30e9\u30eb\u30d0",
+            "chinese": "\u71c3\u70e7\u866b",
+            "french": "Pyronille"
+        },
+        "type": [
+            "Bug",
+            "Fire"
+        ],
+        "base": {
+            "HP": 55,
+            "Attack": 85,
+            "Defense": 55,
+            "Sp. Attack": 50,
+            "Sp. Defense": 55,
+            "Speed": 60
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315c94"
+        },
+        "id": 637,
+        "name": {
+            "english": "Volcarona",
+            "japanese": "\u30a6\u30eb\u30ac\u30e2\u30b9",
+            "chinese": "\u706b\u795e\u86fe",
+            "french": "Pyrax"
+        },
+        "type": [
+            "Bug",
+            "Fire"
+        ],
+        "base": {
+            "HP": 85,
+            "Attack": 60,
+            "Defense": 65,
+            "Sp. Attack": 135,
+            "Sp. Defense": 105,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315ca0"
+        },
+        "id": 649,
+        "name": {
+            "english": "Genesect",
+            "japanese": "\u30b2\u30ce\u30bb\u30af\u30c8",
+            "chinese": "\u76d6\u8bfa\u8d5b\u514b\u7279",
+            "french": "Genesect"
+        },
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "base": {
+            "HP": 71,
+            "Attack": 120,
+            "Defense": 95,
+            "Sp. Attack": 120,
+            "Sp. Defense": 95,
+            "Speed": 99
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315caf"
+        },
+        "id": 664,
+        "name": {
+            "english": "Scatterbug",
+            "japanese": "\u30b3\u30d5\u30ad\u30e0\u30b7",
+            "chinese": "\u7c89\u8776\u866b",
+            "french": "L\u00e9pidonille"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 38,
+            "Attack": 35,
+            "Defense": 40,
+            "Sp. Attack": 27,
+            "Sp. Defense": 25,
+            "Speed": 35
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315cb0"
+        },
+        "id": 665,
+        "name": {
+            "english": "Spewpa",
+            "japanese": "\u30b3\u30d5\u30fc\u30e9\u30a4",
+            "chinese": "\u7c89\u8776\u86f9",
+            "french": "P\u00e9r\u00e9grain"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 22,
+            "Defense": 60,
+            "Sp. Attack": 27,
+            "Sp. Defense": 30,
+            "Speed": 29
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315cb1"
+        },
+        "id": 666,
+        "name": {
+            "english": "Vivillon",
+            "japanese": "\u30d3\u30d3\u30e8\u30f3",
+            "chinese": "\u5f69\u7c89\u8776",
+            "french": "Prismillon"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 52,
+            "Defense": 50,
+            "Sp. Attack": 90,
+            "Sp. Defense": 50,
+            "Speed": 89
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315cf7"
+        },
+        "id": 736,
+        "name": {
+            "english": "Grubbin",
+            "japanese": "\u30a2\u30b4\u30b8\u30e0\u30b7",
+            "chinese": "\u5f3a\u989a\u9e21\u6bcd\u866b",
+            "french": "Larvibule"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 47,
+            "Attack": 62,
+            "Defense": 45,
+            "Sp. Attack": 55,
+            "Sp. Defense": 45,
+            "Speed": 46
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315cf8"
+        },
+        "id": 737,
+        "name": {
+            "english": "Charjabug",
+            "japanese": "\u30c7\u30f3\u30c2\u30e0\u30b7",
+            "chinese": "\u866b\u7535\u5b9d",
+            "french": "Chrysapile"
+        },
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "base": {
+            "HP": 57,
+            "Attack": 82,
+            "Defense": 95,
+            "Sp. Attack": 55,
+            "Sp. Defense": 75,
+            "Speed": 36
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315cf9"
+        },
+        "id": 738,
+        "name": {
+            "english": "Vikavolt",
+            "japanese": "\u30af\u30ef\u30ac\u30ce\u30f3",
+            "chinese": "\u9539\u519c\u70ae\u866b",
+            "french": "Lucanon"
+        },
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "base": {
+            "HP": 77,
+            "Attack": 70,
+            "Defense": 90,
+            "Sp. Attack": 145,
+            "Sp. Defense": 75,
+            "Speed": 43
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315cfd"
+        },
+        "id": 742,
+        "name": {
+            "english": "Cutiefly",
+            "japanese": "\u30a2\u30d6\u30ea\u30fc",
+            "chinese": "\u840c\u867b",
+            "french": "Bombydou"
+        },
+        "type": [
+            "Bug",
+            "Fairy"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 45,
+            "Defense": 40,
+            "Sp. Attack": 55,
+            "Sp. Defense": 40,
+            "Speed": 84
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315cfe"
+        },
+        "id": 743,
+        "name": {
+            "english": "Ribombee",
+            "japanese": "\u30a2\u30d6\u30ea\u30dc\u30f3",
+            "chinese": "\u8776\u7ed3\u840c\u867b",
+            "french": "Rubombelle"
+        },
+        "type": [
+            "Bug",
+            "Fairy"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 55,
+            "Defense": 60,
+            "Sp. Attack": 95,
+            "Sp. Defense": 70,
+            "Speed": 124
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315d06"
+        },
+        "id": 751,
+        "name": {
+            "english": "Dewpider",
+            "japanese": "\u30b7\u30ba\u30af\u30e2",
+            "chinese": "\u6ef4\u86db",
+            "french": "Araqua"
+        },
+        "type": [
+            "Water",
+            "Bug"
+        ],
+        "base": {
+            "HP": 38,
+            "Attack": 40,
+            "Defense": 52,
+            "Sp. Attack": 40,
+            "Sp. Defense": 72,
+            "Speed": 27
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315d07"
+        },
+        "id": 752,
+        "name": {
+            "english": "Araquanid",
+            "japanese": "\u30aa\u30cb\u30b7\u30ba\u30af\u30e2",
+            "chinese": "\u6ef4\u86db\u9738",
+            "french": "Tarenbulle"
+        },
+        "type": [
+            "Water",
+            "Bug"
+        ],
+        "base": {
+            "HP": 68,
+            "Attack": 70,
+            "Defense": 92,
+            "Sp. Attack": 50,
+            "Sp. Defense": 132,
+            "Speed": 42
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315d16"
+        },
+        "id": 767,
+        "name": {
+            "english": "Wimpod",
+            "japanese": "\u30b3\u30bd\u30af\u30e0\u30b7",
+            "chinese": "\u80c6\u5c0f\u866b",
+            "french": "Sovkipou"
+        },
+        "type": [
+            "Bug",
+            "Water"
+        ],
+        "base": {
+            "HP": 25,
+            "Attack": 35,
+            "Defense": 40,
+            "Sp. Attack": 20,
+            "Sp. Defense": 30,
+            "Speed": 80
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315d17"
+        },
+        "id": 768,
+        "name": {
+            "english": "Golisopod",
+            "japanese": "\u30b0\u30bd\u30af\u30e0\u30b7\u30e3",
+            "chinese": "\u5177\u7532\u6b66\u8005",
+            "french": "Sarmura\u00ef"
+        },
+        "type": [
+            "Bug",
+            "Water"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 125,
+            "Defense": 140,
+            "Sp. Attack": 60,
+            "Sp. Defense": 90,
+            "Speed": 40
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315d31"
+        },
+        "id": 794,
+        "name": {
+            "english": "Buzzwole",
+            "japanese": "\u30de\u30c3\u30b7\u30d6\u30fc\u30f3",
+            "chinese": "\u7206\u808c\u868a",
+            "french": "Cancrelove"
+        },
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 107,
+            "Attack": 139,
+            "Defense": 139,
+            "Sp. Attack": 53,
+            "Sp. Defense": 53,
+            "Speed": 79
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64079c692e10041461315d32"
+        },
+        "id": 795,
+        "name": {
+            "english": "Pheromosa",
+            "japanese": "\u30d5\u30a7\u30ed\u30fc\u30c1\u30a7",
+            "chinese": "\u8d39\u6d1b\u7f8e\u8782",
+            "french": "C\u00e2blif\u00e8re"
+        },
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 71,
+            "Attack": 137,
+            "Defense": 37,
+            "Sp. Attack": 137,
+            "Sp. Defense": 37,
+            "Speed": 151
+        }
+    }
+]
